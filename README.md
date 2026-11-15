@@ -1,6 +1,6 @@
-# [Título do Projeto - Portfólio Pessoal]
+# [Portfólio Pessoal]
 
-**Nome do Aluno:** [Matheus Vitorino]
+**Nome do Aluno:** [Matheus Vitorino Guimarães do Prado]
 
 ## Descrição
 [Portfólio pessoal desenvolvido para a atividade prática de Desenvolvimento de Sistemas, com o objetivo de apresentar a minha evolução profissional, perfil e os projetos desenvolvidos ao longo do curso.]
@@ -12,7 +12,7 @@
 - JavaScript
 
 ## Link do Site Publicado
-[Cole aqui o link gerado pelo GitHub Pages]
+[[Cole aqui o link gerado pelo GitHub Pages](https://github.com/matheus08vitorino?tab=repositories)]
 
 ## Funcionamento do Projeto
 [O site possui um menu de navegação fixo no topo com links de ancoragem que permitem deslizar de forma fluida entre as secções de Perfil, Projetos (onde constam os trabalhos reais desenvolvidos) e Contato.]
