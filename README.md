@@ -1,4 +1,4 @@
-# [Título do Projeto - Ex: Portfólio Pessoal]
+# [Título do Projeto - Portfólio Pessoal]
 
 **Nome do Aluno:** [Matheus Vitorino]
 
